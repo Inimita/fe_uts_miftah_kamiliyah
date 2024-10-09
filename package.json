@@ -1,7 +1,7 @@
 {
   "name": "fe_cafe",
   "version": "0.1.0",
-  "homepage": "https://Inimita.github.io/uts_fe_Miftah_Kamiliyah/",
+  "homepage": "https://Inimita.github.io/fe_uts_miftah_kamiliyah/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
